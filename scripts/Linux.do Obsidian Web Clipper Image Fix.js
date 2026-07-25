@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  自动修复 Linux.do 帖子中的 lightbox-wrapper，以便 Obsidian Web Clipper 正确剪藏图片为标准的 ![](url) 格式。
 // @author       Linecos
-// @match        *://linux.do/*
-// @match        *://*.linux.do/*
+// @match        https://linux.do/*
+// @match        https://*.linux.do/*
 // @grant        none
 // @license      MIT
 // @run-at       document-start
